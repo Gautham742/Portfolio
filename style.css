@@ -21,7 +21,7 @@ body {
 
 .topnav a:hover {
     transition:ease-in-out;
-    transition-delay: 1s;
+    transition-delay: 50ms;
     background-color:midnightblue;
     color: azure;
 }
